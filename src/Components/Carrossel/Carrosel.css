@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+.img-carrossel {
+    margin: 7% auto;
+    margin-bottom: 260px;
+    height: 300px;
+    width: 500px;
+    border-radius: 50px;
+    border: 5px solid #3F4D39;
+}
+.box-text-carrossel {
+    font-family: 'Quicksand', sans-serif;
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.box-text-carrossel h1 {
+    text-shadow: 2px 2px 5px #3F4D39;
+}
+.box-text-carrossel h4 {
+    font-style: italic;
+}
+.box-text-carrossel hr {
+    background-color: #3F4D39;
+    color: #3F4D39;
+    width: 50%;
+    height: 3px;
+    margin: 5px;
+}

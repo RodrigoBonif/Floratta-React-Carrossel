@@ -1,0 +1,7 @@
+.boxLogo {
+    width: 200px;
+    height: 190px;
+    background-color: #3F4D39;
+    border-radius: 0 0 100px 0;
+    position: fixed;
+}

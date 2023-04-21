@@ -1,0 +1,30 @@
+[
+    {
+      "id": "1",
+      "name": "Planta jade" ,
+      "cientificName": "Crassula ovata",
+      "description": "A planta de jade é uma planta de fácil cultivo, cultivada como planta de interior ou em jardins de pedra. Ela prefere sol pleno a parcial e solo bem drenado, e é bastante tolerante à seca. A planta de jade é uma planta popular entre os jardineiros iniciantes devido à sua resistência e baixa manutenção.",
+      "image": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3240472:1654549482/Planta-Jade-3.jpeg?f=default&$p$f=0f4eb69"
+    },
+    {
+        "id": "2",
+        "name": "Espada-de-São-Jorge" ,
+        "cientificName": "Dracaena trifasciata",
+        "description": "A planta Espada de São Jorge é uma planta popular para decoração de interiores devido à sua capacidade de remover poluentes do ar, tornando-a uma ótima escolha para ambientes fechados. Ela também é frequentemente usada como uma planta de paisagismo devido à sua resistência à seca e ao calor.",
+        "image": "https://imagens-revista.vivadecora.com.br/uploads/2019/02/okok.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Costela-de-adão" ,
+        "cientificName": "Monstera deliciosa",
+        "description": "A Costela-de-Adão é uma planta popular em decorações de interiores modernas e minimalistas, bem como em jardins botânicos e paisagens tropicais. Ela é tóxica para animais de estimação e deve ser mantida fora do alcance deles.",
+        "image": "https://cdn.awsli.com.br/600x450/1112/1112786/produto/58423811/6c33dea521.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Suculenta" ,
+        "cientificName": "ECHEVERIA 'PERLE VON NURNBERG'",
+        "description": "A Suculenta é uma das mais cultivadas no Brasil. Tem crescimente rápido durante o Outono e Inverno, excelente para cultivo em áreas externas nas regiões sul e sudeste do país. Para as regiões mais quentes o ideal é o cultivo em meia sombra. Suas folhas quando expostas ao sol adquirem uma coloração arroxeada, tornando a planta muito exuberante. ",
+        "image": "https://cdn.awsli.com.br/800x800/1602/1602085/produto/180698560/echeveria-perle-von-nurnberg-suculenta-2a16cab3.jpg"
+    }
+]
